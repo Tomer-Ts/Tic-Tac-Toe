@@ -20,7 +20,6 @@ while (!board.IsFinish) {
 
     board.IsComputer = !board.IsComputer;
     board.checkBoard(currentPlayer);
-    //board.IsFinish = true;
 }
 
 if (user.IsWinner) {

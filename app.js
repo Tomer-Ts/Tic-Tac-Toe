@@ -15,7 +15,6 @@ while (!board.IsFinish) {
     }
     board.IsComputer = !board.IsComputer;
     board.checkBoard(currentPlayer);
-    //board.IsFinish = true;
 }
 if (user.IsWinner) {
     alert("the winner is " + user.Name);

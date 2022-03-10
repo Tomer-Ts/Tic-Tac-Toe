@@ -5,3 +5,10 @@ C:\Users\Shaked\Desktop\91558.2021\oop typescript\מטלה\project in oop - Tome
 C:\Users\Shaked\Desktop\91558.2021\oop typescript\מטלה\project in oop - Tomer Tsabari\obj\Debug\project in oop - Tomer Tsabari.csproj.CoreCompileInputs.cache
 C:\Users\Shaked\Desktop\91558.2021\oop typescript\מטלה\project in oop - Tomer Tsabari\obj\Debug\TypeScriptHTMLApp1.dll
 C:\Users\Shaked\Desktop\91558.2021\oop typescript\מטלה\project in oop - Tomer Tsabari\obj\Debug\TypeScriptHTMLApp1.pdb
+C:\Users\Tomer\Desktop\91558\פרוייקטים\ready\project in oop - Tomer Tsabari\bin\TypeScriptHTMLApp1.dll.config
+C:\Users\Tomer\Desktop\91558\פרוייקטים\ready\project in oop - Tomer Tsabari\bin\TypeScriptHTMLApp1.dll
+C:\Users\Tomer\Desktop\91558\פרוייקטים\ready\project in oop - Tomer Tsabari\bin\TypeScriptHTMLApp1.pdb
+C:\Users\Tomer\Desktop\91558\פרוייקטים\ready\project in oop - Tomer Tsabari\obj\Debug\project in oop - Tomer Tsabari.csproj.AssemblyReference.cache
+C:\Users\Tomer\Desktop\91558\פרוייקטים\ready\project in oop - Tomer Tsabari\obj\Debug\project in oop - Tomer Tsabari.csproj.CoreCompileInputs.cache
+C:\Users\Tomer\Desktop\91558\פרוייקטים\ready\project in oop - Tomer Tsabari\obj\Debug\TypeScriptHTMLApp1.dll
+C:\Users\Tomer\Desktop\91558\פרוייקטים\ready\project in oop - Tomer Tsabari\obj\Debug\TypeScriptHTMLApp1.pdb
